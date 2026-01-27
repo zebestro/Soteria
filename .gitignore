@@ -1,0 +1,4 @@
+*.sw*
+PICIoT.X/build
+PICIoT.X/dist
+PICIoT.X/.generated_files
